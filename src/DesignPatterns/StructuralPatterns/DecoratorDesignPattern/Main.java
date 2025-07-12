@@ -1,9 +1,9 @@
-package DesignPatterns.Structural.DecoratorPattern;
+package DesignPatterns.StructuralPatterns.DecoratorDesignPattern;
 
-import DesignPatterns.Structural.DecoratorPattern.Base.BasePizza;
-import DesignPatterns.Structural.DecoratorPattern.Base.VeggieDelight;
-import DesignPatterns.Structural.DecoratorPattern.Decorators.ExtraCheese;
-import DesignPatterns.Structural.DecoratorPattern.Decorators.Mushrooms;
+import DesignPatterns.StructuralPatterns.DecoratorDesignPattern.Base.BasePizza;
+import DesignPatterns.StructuralPatterns.DecoratorDesignPattern.Base.VeggieDelight;
+import DesignPatterns.StructuralPatterns.DecoratorDesignPattern.Decorators.ExtraCheese;
+import DesignPatterns.StructuralPatterns.DecoratorDesignPattern.Decorators.Mushrooms;
 
 public class Main {
 

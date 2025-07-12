@@ -1,4 +1,4 @@
-package DesignPatterns.Structural.DecoratorPattern.Base;
+package DesignPatterns.StructuralPatterns.DecoratorDesignPattern.Base;
 
 public class Margarita extends BasePizza{
 
